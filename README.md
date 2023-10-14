@@ -1,6 +1,6 @@
 <include a CircleCI status badge, here>
 
-[![CircleCI](https://circleci.com/gh/<your-github-username>/<your-repo-name>.svg?style=svg)](https://circleci.com/gh/shubhks21/project-ml-microservice-kubernetes)
+[![CircleCI](https://circleci.com/gh/shubhks21/project-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/shubhks21/project-ml-microservice-kubernetes)
 
 ## Project Summary
 
